@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\bin\Debug\netcoreapp3.1\gritador.exe
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\bin\Debug\netcoreapp3.1\gritador.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\bin\Debug\netcoreapp3.1\gritador.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\bin\Debug\netcoreapp3.1\gritador.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\bin\Debug\netcoreapp3.1\gritador.dll
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\bin\Debug\netcoreapp3.1\gritador.pdb
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\obj\Debug\netcoreapp3.1\gritador.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\obj\Debug\netcoreapp3.1\gritador.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\obj\Debug\netcoreapp3.1\gritador.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\obj\Debug\netcoreapp3.1\gritador.dll
+C:\Users\Maria Luiza\Documents\Luiza\gritador\gritador\obj\Debug\netcoreapp3.1\gritador.pdb
